@@ -3,7 +3,6 @@ package com.example.library.mapper;
 import com.example.library.controller.request.UserPageRequest;
 import com.example.library.entity.User;
 import org.apache.ibatis.annotations.Mapper;
-import org.apache.ibatis.annotations.Select;
 
 import java.util.List;
 
